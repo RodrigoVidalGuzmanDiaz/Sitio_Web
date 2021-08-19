@@ -1,0 +1,54 @@
+    *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+html{
+    font-family: monospace;
+    font-size: 10px;
+}
+:root{
+    /* variables de color*/
+    --rojo: red;
+    --verde: rgb(176, 221, 176);
+    --amarillo: #F7E914;
+    --gris: #C4C4C4;
+    --texto: black;
+    --letra: 'Roboto', sans-serif;
+    
+    --texto: 
+    --h1 : 2rem;
+    --h2 : 2.4rem;
+    --h3 : 14rem;
+    --parrafo : 1.5rem;
+}
+/*ESTRCUTURA DE LAS SECCIONES*/
+.background-Section{
+    width: 100%;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+
+    background: linear-gradient(313.78deg, #2855AE -3.15%, #7292CF 100%);
+}
+.background-Section-img_School{
+    width: 116px;
+    height: 19.84px;
+    margin-top: 81.13px;
+}
+.background-Section-img_ERP{
+    width: 116px;
+    height: 35.36px;
+}
+.background-Section-img_lapiz{
+
+    height: 310.44px;
+    margin-top: 155px;
+}
+.section-body{
+    max-width: 130rem;
+    height: auto;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}

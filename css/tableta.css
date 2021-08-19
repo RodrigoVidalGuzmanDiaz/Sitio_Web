@@ -1,0 +1,17 @@
+.section-movil{
+    max-width: 768px;
+    
+}
+
+.section-items{
+    max-width: 300px;
+    display: flex;
+    
+    font-size: var(--h2);
+    border: 2px solid black;
+}
+.section-contenido{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
