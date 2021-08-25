@@ -9,7 +9,5 @@
          <tr>
                 <td>Vista</td> 
 				<td><a href="https://rodrigovidalguzmandiaz.github.io/Sitio_Web/">Link</a></td> 
-			</tr>
-		<td><a href="https://rodrigovidalguzmandiaz.github.io/Sitio_Web/">Link</a></td> 
 	</tr>
 </table>
