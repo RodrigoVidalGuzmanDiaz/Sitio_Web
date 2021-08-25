@@ -1,0 +1,78 @@
+
+.login-background{
+    background: linear-gradient(35.54deg, #2855AE -7.25%, #7292CF 90.75%);
+    padding-top: 6.7rem;
+}
+.banner-login img{
+    width: 29.5rem;
+    align-self: flex-end;
+}
+.banner-login h2{
+    color: #fff;
+    font-size: var(--h1);
+    font-weight: 600;
+    margin-left: 2rem;
+}
+.banner-login span{
+    font-size: var(--parrafo);
+    font-weight: 0; 
+    color: #fff;
+    margin-left: 2rem;
+}
+.formulario-login{
+    background-color:white;
+    border-radius: 4rem 4rem 0rem 0rem;
+}
+.formulario{
+    margin: auto;
+    width: 31.5rem;
+
+    display: flex;
+    flex-direction: column;
+}
+.formulario-label{
+    font-size: 1.2rem;
+    color: var(--gris3);
+    margin-bottom: 3.5rem;
+
+    display: flex;
+    flex-direction: column;
+}
+.formulario-label input{
+    width: 100%;
+    height: 4rem;
+    border: none;
+    border-bottom: 1px solid var(--gris3);
+    outline: none;
+    font-size: 1.6rem;
+}
+.formulario button{
+    
+    cursor: pointer;
+    width: 31.5rem;
+    height: 5.4rem;
+    border-style: none;
+    border-radius: 1rem;
+    font-weight: 600;
+    color: #fff;
+    font-size: 1.5rem;
+
+    background: linear-gradient(35.54deg, #2855AE -7.25%, #7292CF 90.75%);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: relative;
+}
+.formulario button img{
+    width: 2.5rem;
+    position:absolute;
+    right: 2.8rem;
+    
+}
+.formulario-mensaje{
+    align-self: flex-end;
+    font-size: var(--parrafo);
+    margin-top: 2rem;
+}
