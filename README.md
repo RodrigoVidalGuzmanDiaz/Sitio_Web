@@ -1,8 +1,6 @@
 # Sitio_Web
 
-table>
-
-            <tr>
+<table>
           <tr>
                 <td colspan="2">#1 </td>
             </tr>
