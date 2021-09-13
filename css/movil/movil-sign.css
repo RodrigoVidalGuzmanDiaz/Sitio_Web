@@ -1,0 +1,137 @@
+
+.Sign-background{
+    background: linear-gradient(35.54deg, #2855AE -7.25%, #7292CF 90.75%);
+   
+}
+.Sign2-background{
+    max-width: 37.5rem;
+    margin: auto;
+    background: transparent;
+
+    
+    
+    position: relative;
+}
+.Sign2-background .puntos{
+   
+    position:absolute;
+    top: 6rem;
+    right: 3.8rem;
+    
+}
+.banner-login img{
+    
+    align-self: flex-start;
+}
+.banner-login h4{
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: 300;
+    margin-left: 2rem;
+    margin-top: -2rem;
+}
+.banner-login div{
+    width: 7rem;
+    height: 2rem;
+    background-color: white;
+    align-self: flex-end;
+    border-radius: 1rem;
+    margin-top: -1.8rem;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+.banner-login div p{
+    font-size: 1.1rem;
+    font-weight: 600; 
+    color: var(--azul4);
+    
+}
+.banner-login div img{
+    margin: 0.5rem 0.4rem 0rem 0rem;
+
+}
+.formulario-login{
+    margin-top: -2rem;
+    background-color:white;
+    border-radius: 4rem 4rem 0rem 0rem;
+}
+.formulario-login .datos{
+    width: 300px;
+    height: 100px;
+    margin-top: -3rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0rem 1rem;
+
+
+    border: 1px solid #5278C1;
+    border-radius: 1rem 1rem 1rem 1rem;
+}
+.formulario-login .foto{
+    width: 75px;
+    align-self: center;
+}
+.formulario-login .info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    margin: -2rem 0rem 0rem -2rem;
+}
+.formulario-login .titulo{
+    font-size: 1.6rem;
+    font-weight: 900;
+}
+.formulario-login .titulo2{
+    font-size: 1.4rem;
+    color: var(--gris5);
+}
+.formulario-login .camara{
+    width: 2rem;
+    height: 2rem;
+    margin-top: 1rem;
+}
+.general{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.información{
+    width: 13.9rem;
+
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: column;
+}
+.categoria{
+    font-size: 1rem;
+    color: var(--gris3);
+    font-weight: 400;
+}
+.descripcion{
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #323643;
+}
+.candado{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.candado img{
+    margin-top: 1rem;
+}
+.informaciónG{
+    width: 30rem;
+
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: column;
+}

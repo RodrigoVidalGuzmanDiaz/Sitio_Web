@@ -1,0 +1,10 @@
+.login-background{
+   height: 100vh;
+}
+.formulario-login{
+    background-color:white;
+    border-radius: 4rem 4rem 4rem 4rem;
+}
+.banner-login img{
+    width: 35rem;
+}
