@@ -12,7 +12,7 @@
 		<td><a href="https://rodrigovidalguzmandiaz.github.io/Sitio_Web/">Link</a></td> 
 	</tr>
 	 <tr>
-                <td colspan="2">#2 </td>
+                <td colspan="2">Wireframe #2</td>
             </tr>
             <tr>
          </tr>
@@ -21,7 +21,7 @@
 		<td><a href="https://rodrigovidalguzmandiaz.github.io/Sitio_Web2/">Link</a></td> 
 	</tr>
 	 <tr>
-                <td colspan="2">#3 </td>
+                <td colspan="2">Wireframe #3</td>
             </tr>
             <tr>
          </tr>
@@ -30,7 +30,7 @@
 		<td><a href="https://rodrigovidalguzmandiaz.github.io/Sitio_Web3/">Link</a></td> 
 	</tr>
 	<tr>
-                <td colspan="2">#4 </td>
+                <td colspan="2">Wireframe #4</td>
             </tr>
             <tr>
          </tr>
@@ -39,7 +39,7 @@
 		<td><a href="https://rodrigovidalguzmandiaz.github.io/Sitio_Web4/">Link</a></td> 
 	</tr>
 	<tr>
-                <td colspan="2">#5 </td>
+                <td colspan="2">Wireframe #5</td>
             </tr>
             <tr>
          </tr>
