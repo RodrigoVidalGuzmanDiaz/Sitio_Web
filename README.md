@@ -1,8 +1,13 @@
 # Sitio_Web
+ <style>
+	td{
+		text-aling: center;
+	}
+</style>
 
 <table>
           <tr>
-                <td colspan="2">&nbsp;&nbsp;#1 </td>
+                <td colspan="2">#1 </td>
             </tr>
             <tr>
          </tr>
