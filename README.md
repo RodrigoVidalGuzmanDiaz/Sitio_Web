@@ -1,9 +1,5 @@
 # Sitio_Web
-<style>
- td{
-    text-align: center;
-  }
-</style>
+
 
 <table>
           <tr>
