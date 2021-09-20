@@ -3,7 +3,7 @@
 
 <table>
           <tr>
-                <td colspan="2">#1 </td>
+                <td colspan="2">Wireframe #1</td>
             </tr>
             <tr>
          </tr>
