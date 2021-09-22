@@ -19,7 +19,7 @@ ____________________________________________________________________
 
 <table>
           <tr>
-                <td colspan="2">Wireframe #1</td>
+                <td colspan="2"><strong>Portada</strong> </td>
             </tr>
             <tr>
          </tr>
@@ -28,7 +28,7 @@ ____________________________________________________________________
 		<td><a href="https://rodrigovidalguzmandiaz.github.io/Sitio_Web/">Link</a></td> 
 	</tr>
 	 <tr>
-                <td colspan="2">Wireframe #2</td>
+	 <td colspan="2"><strong>Login</strong></td>
             </tr>
             <tr>
          </tr>
@@ -37,7 +37,7 @@ ____________________________________________________________________
 		<td><a href="https://rodrigovidalguzmandiaz.github.io/Sitio_Web2/">Link</a></td> 
 	</tr>
 	 <tr>
-                <td colspan="2">Wireframe #3</td>
+	 <td colspan="2"><strong>Login v2</strong></td>
             </tr>
             <tr>
          </tr>
@@ -46,7 +46,7 @@ ____________________________________________________________________
 		<td><a href="https://rodrigovidalguzmandiaz.github.io/Sitio_Web3/">Link</a></td> 
 	</tr>
 	<tr>
-                <td colspan="2">Wireframe #4</td>
+	<td colspan="2"><strong>Menu de Opciones</strong></td>
             </tr>
             <tr>
          </tr>
@@ -55,7 +55,7 @@ ____________________________________________________________________
 		<td><a href="https://rodrigovidalguzmandiaz.github.io/Sitio_Web4/">Link</a></td> 
 	</tr>
 	<tr>
-                <td colspan="2">Wireframe #5</td>
+	<td colspan="2"><strong>Perfil</strong></td>
             </tr>
             <tr>
          </tr>
