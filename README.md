@@ -11,7 +11,7 @@
 | Grado  |  IV Computación |
 | Materia  | Laboratorio 1  |
 | Catedrático  |  Jossue Emmanuel Fuentes |
-| Trabajo  |  <a href="https://github.com/RodrigoVidalGuzmanDiaz/Sitio_Web/blob/main/README.md"><strong>Sitio Web</strong></a> |
+| Trabajo  |  <a href="https://github.com/RodrigoVidalGuzmanDiaz/Sitio_Web/blob/main/README.md"><strong>School ERP</strong></a> |
 ## Indice
    1.Portada
 
