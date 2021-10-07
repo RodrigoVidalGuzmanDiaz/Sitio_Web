@@ -13,9 +13,6 @@
 | Catedrático  |  Jossue Emmanuel Fuentes |
 | Trabajo  |  <a href="https://github.com/RodrigoVidalGuzmanDiaz/Sitio_Web#indice"><strong>School ERP</strong></a> |
 ## Indice
-   1.Portada
-
-____________________________________________________________________
 
 <table>
           <tr>
